@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "uid": "uid 1",
+      "name": "name 1",
+      "birthday": "2020-06-17T20:03:50.895Z",
+      "email": "email 1"
+    },
+    {
+      "uid": "vlGogw2uSXMfg4cLN6U1cT7CXfA2",
+      "name": "Carlos Alito teste",
+      "birthday": "1982-01-17T10:48:21.767Z",
+      "email": "test@test.com"
+    }
+  ]
+}
