@@ -17,6 +17,7 @@
     "uid": "vlGogw2uSXMfg4cLN6U1cT7CXfA2",
     "nome": "Carlos Alito teste",
     "data_aniversario": "1982-01-17T10:48:21.767Z",
-    "email": "test@test.com"
+    "email": "test@test.com",
+    "tipo": "admin"
   }
 }
