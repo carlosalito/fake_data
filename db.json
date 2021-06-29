@@ -12,5 +12,11 @@
       "birthday": "1982-01-17T10:48:21.767Z",
       "email": "test@test.com"
     }
-  ]
+  ],
+  "user": {
+    "uid": "vlGogw2uSXMfg4cLN6U1cT7CXfA2",
+    "name": "Carlos Alito teste",
+    "birthday": "1982-01-17T10:48:21.767Z",
+    "email": "test@test.com"
+  }
 }
