@@ -20,7 +20,7 @@
     "email": "test@test.com",
     "tipo": "admin"
   },
-  "chat_users": [
+  "chatUsers": [
     {
       "guid": "1ad45953-dbd1-46dc-bc24-7b2d07530886",
       "name": "Wesley Oliveira",
