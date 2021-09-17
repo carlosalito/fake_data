@@ -19,5 +19,22 @@
     "data_aniversario": "1982-01-17T10:48:21.767Z",
     "email": "test@test.com",
     "tipo": "admin"
-  }
+  },
+  "chat_users": [
+    {
+      "guid": "1ad45953-dbd1-46dc-bc24-7b2d07530886",
+      "name": "Wesley Oliveira",
+      "picture": null,
+    },
+    {
+      "guid": "bb2e9c45-cb18-489f-8226-ace242212c57",
+      "name": "Jair Bolsonaro",
+      "picture": "https://istoe.com.br/wp-content/uploads/sites/14/2020/12/bolsonaro-arminha.jpg",
+    },
+    {
+      "guid": "9900c8e9-9a0f-469b-b90c-ca98a38d44ff",
+      "name": "Luis Inácio Lula da Silva",
+      "picture": "https://pbs.twimg.com/media/DQi0OCKXUAAAcv8.jpg",
+    },
+  ]
 }
