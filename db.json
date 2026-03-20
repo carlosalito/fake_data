@@ -1,5 +1,9 @@
 {
-  "freight": [
+  "pagination": {
+    "pages": 5,
+    "page": 0
+  },
+  "data": [
      {
        "method": "PAC",
         "price": "25.84",
