@@ -1,9 +1,10 @@
 {
+  "data": {
   "pagination": {
     "pages": 5,
     "page": 0
   },
-  "data": [
+  "products": [
      {
        "product": "Produto 01",
         "price": "25.84",
@@ -21,4 +22,5 @@
         "sku": "789123456123"
     }
   ] 
+}
 }
