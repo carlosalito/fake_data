@@ -1,26 +1,26 @@
 {
   "data": {
-  "pagination": {
-    "pages": 5,
-    "page": 0
-  },
-  "products": [
-     {
-       "product": "Produto 01",
-        "price": "25.84",
-        "sku": "789123456789"
+    "pagination": {
+      "pages": 5,
+      "page": 0
     },
-     {
-       
-       "product": "Produto 02",
-        "price": "16.50",
-        "sku": "789123456000"
-    },
-     {
-       "product": "Produto 03",
-        "price": "45.00",
-        "sku": "789123456123"
-    }
-  ] 
-}
+    "products": [
+       {
+         "product": "Produto 01",
+          "price": "25.84",
+          "sku": "789123456789"
+      },
+       {
+         
+         "product": "Produto 02",
+          "price": "16.50",
+          "sku": "789123456000"
+      },
+       {
+         "product": "Produto 03",
+          "price": "45.00",
+          "sku": "789123456123"
+      }
+    ] 
+  }
 }
